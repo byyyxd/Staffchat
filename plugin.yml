@@ -1,0 +1,6 @@
+name: Staffchat
+main: me.repizestaffchat.Main
+version: 1.0
+author: REPIZE
+commands:
+    sc:
